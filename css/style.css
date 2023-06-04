@@ -352,7 +352,7 @@ body {
   padding: 0;
   color: var(--text-color-3);
   font-weight: 400;
-  font-size: 18px;
+  font-size: 20px;
   font-family: STHeiti;
   line-height: 22px;
   letter-spacing: 0.2px;
@@ -380,14 +380,14 @@ body::-webkit-scrollbar {
 @media (max-width: 800px) {
   html,
   body {
-    font-size: 17.28px;
+    font-size: 19.2px;
     line-height: 21.119999999999997px;
   }
 }
 @media (max-width: 500px) {
   html,
   body {
-    font-size: 16.2px;
+    font-size: 18px;
     line-height: 19.8px;
   }
 }
@@ -2445,6 +2445,25 @@ pre .javascript .function {
 .side-tools-container .side-tools-list.show {
   transform: translateX(0);
   opacity: 1;
+}
+.side-tools-container .exposed-tools-list .tool-scroll-to-top {
+  display: none;
+}
+.side-tools-container .exposed-tools-list .tool-scroll-to-top.show {
+  display: flex;
+}
+.side-tools-container .exposed-tools-list .tool-scroll-to-top:hover .percent {
+  display: none;
+}
+.side-tools-container .exposed-tools-list .tool-scroll-to-top:hover .arrow-up {
+  display: flex;
+}
+.side-tools-container .exposed-tools-list .tool-scroll-to-top .arrow-up {
+  display: none;
+}
+.side-tools-container .exposed-tools-list .tool-scroll-to-top .percent {
+  display: flex;
+  font-size: 1rem;
 }
 .archive-list-container .archive-item {
   margin-bottom: 38px;
