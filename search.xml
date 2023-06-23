@@ -233,20 +233,6 @@
       </categories>
   </entry>
   <entry>
-    <title>【工具】常用工具-Aurora Store</title>
-    <url>/2018/01/02/%E5%B7%A5%E5%85%B7-%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7-Aurora%20Store/</url>
-    <content><![CDATA[<p><strong>欢迎来到此页面，您可以在此获取常用工具的官方下载渠道，请逐条认真阅读。</strong></p>
-<h4 id="工具名称"><a href="#工具名称" class="headerlink" title="工具名称"></a>工具名称</h4><p>Aurora Store</p>
-<h4 id="工具类型"><a href="#工具类型" class="headerlink" title="工具类型"></a>工具类型</h4><p>应用市场</p>
-<h4 id="官方网址"><a href="#官方网址" class="headerlink" title="官方网址"></a>官方网址</h4><p><a class="link"   href="https://auroraoss.com/" >https://auroraoss.com/<i class="fas fa-external-link-alt"></i></a></p>
-<h4 id="适用场景"><a href="#适用场景" class="headerlink" title="适用场景"></a>适用场景</h4><p>Aerofly FS 2022 下载</p>
-<p>Aerofly FS 2023 下载</p>
-]]></content>
-      <categories>
-        <category>工具下载</category>
-      </categories>
-  </entry>
-  <entry>
     <title>【工具】常用工具-Clash</title>
     <url>/2018/01/05/%E5%B7%A5%E5%85%B7-%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7-Clash/</url>
     <content><![CDATA[<p><strong>欢迎来到此页面，您可以在此获取常用工具的官方下载渠道，请逐条认真阅读。</strong></p>
@@ -256,6 +242,20 @@
 <p><a class="link"   href="https://github.com/Fndroid/clash_for_windows_pkg" >Clash For Windows - 适用于Windows&#x2F;macOS&#x2F;Linux系统用户<i class="fas fa-external-link-alt"></i></a></p>
 <p>*<strong>本站不包含使用说明，请参阅官方文档</strong></p>
 <h4 id="适用场景"><a href="#适用场景" class="headerlink" title="适用场景"></a>适用场景</h4><p>通过网络代理使用 Google Play &#x2F; Aurora Store</p>
+]]></content>
+      <categories>
+        <category>工具下载</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>【工具】常用工具-Aurora Store</title>
+    <url>/2018/01/02/%E5%B7%A5%E5%85%B7-%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7-Aurora%20Store/</url>
+    <content><![CDATA[<p><strong>欢迎来到此页面，您可以在此获取常用工具的官方下载渠道，请逐条认真阅读。</strong></p>
+<h4 id="工具名称"><a href="#工具名称" class="headerlink" title="工具名称"></a>工具名称</h4><p>Aurora Store</p>
+<h4 id="工具类型"><a href="#工具类型" class="headerlink" title="工具类型"></a>工具类型</h4><p>应用市场</p>
+<h4 id="官方网址"><a href="#官方网址" class="headerlink" title="官方网址"></a>官方网址</h4><p><a class="link"   href="https://auroraoss.com/" >https://auroraoss.com/<i class="fas fa-external-link-alt"></i></a></p>
+<h4 id="适用场景"><a href="#适用场景" class="headerlink" title="适用场景"></a>适用场景</h4><p>Aerofly FS 2022 下载</p>
+<p>Aerofly FS 2023 下载</p>
 ]]></content>
       <categories>
         <category>工具下载</category>
@@ -442,32 +442,6 @@
       </categories>
   </entry>
   <entry>
-    <title>【资源】Aerofly FS 2023上海虹桥国际机场</title>
-    <url>/2019/01/02/%E8%B5%84%E6%BA%90-Aerofly-FS-2023-%E4%B8%8A%E6%B5%B7%E8%99%B9%E6%A1%A5%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA/</url>
-    <content><![CDATA[<p><strong>欢迎来到此页面，您可以在此获取Aerofly FS 2023 上海虹桥国际机场插件并手动安装。</strong></p>
-<p><strong>该插件发布正式版前均处于持续更新状态</strong></p>
-<h4 id="【公告】"><a href="#【公告】" class="headerlink" title="【公告】"></a>【公告】</h4><p>很抱歉，由于谷歌卫星图接缝原因，虹桥机场暂时无法完成，虹桥机场计划暂时停止，改由浦东机场计划进行</p>
-<h4 id="【文件】"><a href="#【文件】" class="headerlink" title="【文件】"></a>【文件】</h4><p>dlc_ scenery_ hongqiao_ try_ vXX.tme</p>
-<p><strong>（上述“XX”取决于当前最新版本）</strong></p>
-<h4 id="【下载】"><a href="#【下载】" class="headerlink" title="【下载】"></a>【下载】</h4><p><a class="link"   href="https://share.weiyun.com/GtWijApe-g" >微云共享组跳转链接<i class="fas fa-external-link-alt"></i></a></p>
-<p>*<strong>请先阅读下载站文章《站内通用下载说明》再进行下载操作，否则后果自行承担</strong></p>
-<h4 id="【安装】"><a href="#【安装】" class="headerlink" title="【安装】"></a>【安装】</h4><p>①打开MT管理器</p>
-<p>②在左侧操作找到名为“微云保存的文件”的文件夹并打开</p>
-<p>③在右侧操作找到名为“Android”的文件夹并打开</p>
-<p>④接上步找到名为“data”的文件夹并打开</p>
-<p>⑤接上步找到名为“com.aerofly.aeroflyfs2023”的文件夹并打开</p>
-<p>⑥接上步找到名为“files”的文件夹并打开</p>
-<p>⑦在左侧长按所需要移动的文件至弹出操作菜单</p>
-<p>⑧接上步在操作菜单上选择“移动”选项，若提示文件已存在请追加“移动并替换”操作</p>
-<p>⑨等待移动操作完成</p>
-<p>⑩完成安装步骤</p>
-<p>*<strong>若遇到问题请先阅读下载站文章《站内通用安装说明》并尝试解决，无法解决再寻求人工帮助</strong></p>
-]]></content>
-      <categories>
-        <category>制作组作品</category>
-      </categories>
-  </entry>
-  <entry>
     <title>【资源】Aerofly FS 2021 Pro v2.1</title>
     <url>/2019/01/05/%E8%B5%84%E6%BA%90-Aerofly-FS-2021-Pro-v2-1/</url>
     <content><![CDATA[<p><strong>欢迎来到此页面，您可以在此获取Aerofly FS 2021 Pro安装包以及必要附件并手动安装。</strong></p>
@@ -497,6 +471,32 @@
 <p>*<strong>内含7723用户必要附件下载渠道</strong></p>
 <p>*<strong>请先阅读下载站文章《站内通用下载说明》再进行下载操作，否则后果自行承担</strong></p>
 <h4 id="【安装】"><a href="#【安装】" class="headerlink" title="【安装】"></a>【安装】</h4><p><a class="link"   href="https://www.bilibili.com/video/BV1WM4y1D7Uk/" >视频教程跳转链接<i class="fas fa-external-link-alt"></i></a></p>
+<p>*<strong>若遇到问题请先阅读下载站文章《站内通用安装说明》并尝试解决，无法解决再寻求人工帮助</strong></p>
+]]></content>
+      <categories>
+        <category>制作组作品</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>【资源】Aerofly FS 2023上海虹桥国际机场</title>
+    <url>/2019/01/02/%E8%B5%84%E6%BA%90-Aerofly-FS-2023-%E4%B8%8A%E6%B5%B7%E8%99%B9%E6%A1%A5%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA/</url>
+    <content><![CDATA[<p><strong>欢迎来到此页面，您可以在此获取Aerofly FS 2023 上海虹桥国际机场插件并手动安装。</strong></p>
+<p><strong>该插件发布正式版前均处于持续更新状态</strong></p>
+<h4 id="【公告】"><a href="#【公告】" class="headerlink" title="【公告】"></a>【公告】</h4><p>很抱歉，由于谷歌卫星图接缝原因，虹桥机场暂时无法完成，虹桥机场计划暂时停止，改由浦东机场计划进行</p>
+<h4 id="【文件】"><a href="#【文件】" class="headerlink" title="【文件】"></a>【文件】</h4><p>dlc_ scenery_ hongqiao_ try_ vXX.tme</p>
+<p><strong>（上述“XX”取决于当前最新版本）</strong></p>
+<h4 id="【下载】"><a href="#【下载】" class="headerlink" title="【下载】"></a>【下载】</h4><p><a class="link"   href="https://share.weiyun.com/GtWijApe-g" >微云共享组跳转链接<i class="fas fa-external-link-alt"></i></a></p>
+<p>*<strong>请先阅读下载站文章《站内通用下载说明》再进行下载操作，否则后果自行承担</strong></p>
+<h4 id="【安装】"><a href="#【安装】" class="headerlink" title="【安装】"></a>【安装】</h4><p>①打开MT管理器</p>
+<p>②在左侧操作找到名为“微云保存的文件”的文件夹并打开</p>
+<p>③在右侧操作找到名为“Android”的文件夹并打开</p>
+<p>④接上步找到名为“data”的文件夹并打开</p>
+<p>⑤接上步找到名为“com.aerofly.aeroflyfs2023”的文件夹并打开</p>
+<p>⑥接上步找到名为“files”的文件夹并打开</p>
+<p>⑦在左侧长按所需要移动的文件至弹出操作菜单</p>
+<p>⑧接上步在操作菜单上选择“移动”选项，若提示文件已存在请追加“移动并替换”操作</p>
+<p>⑨等待移动操作完成</p>
+<p>⑩完成安装步骤</p>
 <p>*<strong>若遇到问题请先阅读下载站文章《站内通用安装说明》并尝试解决，无法解决再寻求人工帮助</strong></p>
 ]]></content>
       <categories>
