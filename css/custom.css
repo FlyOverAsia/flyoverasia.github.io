@@ -1,0 +1,11 @@
+:root {
+    --box-border-radius: 20px;
+}
+
+:root {
+    --post-create-datetime: none;
+}
+
+:root {
+    --post-update-datetime: none;
+}
